@@ -9,6 +9,9 @@
 
     <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
 
+    <script src="<%=asset_path('jquery.placeholder.js')%>"></script>
+    <script type="text/javascript">$(function(){$('input, textarea').placeholder();});</script>
+
     <%= yield :page_specific_js %>
 
   </body>
