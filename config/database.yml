@@ -1,17 +1,17 @@
 development:
   host: localhost
   adapter: postgresql
-  database: hhsoftwaresolutions_development
+  database: bailbetterlandingpage_development
 
 staging:
   adapter: postgresql
-  database: hhsoftwaresolutions_staging
+  database: bailbetterlandingpage_staging
 
 production:
   adapter: postgresql
-  database: hhsoftwaresolutions_production
+  database: bailbetterlandingpage_production
 
 test:
   host: localhost
   adapter: postgresql
-  database: hhsoftwaresolutions_test
+  database: bailbetterlandingpage_test

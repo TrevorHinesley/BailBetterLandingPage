@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-HHSoftwareSolutions::Application.load_tasks
+BailBetterLandingPage::Application.load_tasks
