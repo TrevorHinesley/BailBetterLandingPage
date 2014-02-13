@@ -305,3 +305,39 @@
 [01/13/14 20:22:24 -0600 Trevors-MacBook-Pro.local (30192)] INFO : Installing Rails4 Error instrumentation
 [01/13/14 20:22:24 -0600 Trevors-MacBook-Pro.local (30192)] INFO : Finished instrumentation
 [01/13/14 20:22:24 -0600 Trevors-MacBook-Pro.local (30192)] INFO : Doing deferred dependency-detection before Rack startup
+[02/12/14 20:06:16 -0600 Trevors-MacBook-Pro.local (8021)] INFO : Starting the New Relic agent in "development" environment.
+[02/12/14 20:06:16 -0600 Trevors-MacBook-Pro.local (8021)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[02/12/14 20:06:16 -0600 Trevors-MacBook-Pro.local (8021)] INFO : Reading configuration from config/newrelic.yml
+[02/12/14 20:06:16 -0600 Trevors-MacBook-Pro.local (8021)] INFO : New Relic Agent Developer Mode enabled.
+[02/12/14 20:06:16 -0600 Trevors-MacBook-Pro.local (8021)] INFO : Enabling the Request Sampler.
+[02/12/14 20:06:16 -0600 Trevors-MacBook-Pro.local (8021)] INFO : Enabling the Request Sampler.
+[02/12/14 20:06:16 -0600 Trevors-MacBook-Pro.local (8021)] INFO : Environment: development
+[02/12/14 20:06:16 -0600 Trevors-MacBook-Pro.local (8021)] INFO : No known dispatcher detected.
+[02/12/14 20:06:16 -0600 Trevors-MacBook-Pro.local (8021)] INFO : Application: My Application
+[02/12/14 20:06:16 -0600 Trevors-MacBook-Pro.local (8021)] WARN : Agent configured not to send data in this environment.
+[02/12/14 20:06:16 -0600 Trevors-MacBook-Pro.local (8021)] INFO : Installing ActiveRecord 4 instrumentation
+[02/12/14 20:06:16 -0600 Trevors-MacBook-Pro.local (8021)] INFO : Installing Net instrumentation
+[02/12/14 20:06:16 -0600 Trevors-MacBook-Pro.local (8021)] INFO : Installing deferred Rack instrumentation
+[02/12/14 20:06:16 -0600 Trevors-MacBook-Pro.local (8021)] INFO : Installing Rails 4 Controller instrumentation
+[02/12/14 20:06:16 -0600 Trevors-MacBook-Pro.local (8021)] INFO : Installing Rails 4 view instrumentation
+[02/12/14 20:06:16 -0600 Trevors-MacBook-Pro.local (8021)] INFO : Installing Rails4 Error instrumentation
+[02/12/14 20:06:16 -0600 Trevors-MacBook-Pro.local (8021)] INFO : Finished instrumentation
+[02/12/14 20:06:16 -0600 Trevors-MacBook-Pro.local (8021)] INFO : Doing deferred dependency-detection before Rack startup
+[02/12/14 20:07:00 -0600 Trevors-MacBook-Pro.local (8037)] INFO : Starting the New Relic agent in "development" environment.
+[02/12/14 20:07:00 -0600 Trevors-MacBook-Pro.local (8037)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[02/12/14 20:07:00 -0600 Trevors-MacBook-Pro.local (8037)] INFO : Reading configuration from config/newrelic.yml
+[02/12/14 20:07:00 -0600 Trevors-MacBook-Pro.local (8037)] INFO : New Relic Agent Developer Mode enabled.
+[02/12/14 20:07:00 -0600 Trevors-MacBook-Pro.local (8037)] INFO : Enabling the Request Sampler.
+[02/12/14 20:07:00 -0600 Trevors-MacBook-Pro.local (8037)] INFO : Enabling the Request Sampler.
+[02/12/14 20:07:00 -0600 Trevors-MacBook-Pro.local (8037)] INFO : Environment: development
+[02/12/14 20:07:00 -0600 Trevors-MacBook-Pro.local (8037)] INFO : No known dispatcher detected.
+[02/12/14 20:07:00 -0600 Trevors-MacBook-Pro.local (8037)] INFO : Application: My Application
+[02/12/14 20:07:00 -0600 Trevors-MacBook-Pro.local (8037)] WARN : Agent configured not to send data in this environment.
+[02/12/14 20:07:00 -0600 Trevors-MacBook-Pro.local (8037)] INFO : Installing ActiveRecord 4 instrumentation
+[02/12/14 20:07:00 -0600 Trevors-MacBook-Pro.local (8037)] INFO : Installing Net instrumentation
+[02/12/14 20:07:00 -0600 Trevors-MacBook-Pro.local (8037)] INFO : Installing deferred Rack instrumentation
+[02/12/14 20:07:00 -0600 Trevors-MacBook-Pro.local (8037)] INFO : Installing Rails 4 Controller instrumentation
+[02/12/14 20:07:00 -0600 Trevors-MacBook-Pro.local (8037)] INFO : Installing Rails 4 view instrumentation
+[02/12/14 20:07:00 -0600 Trevors-MacBook-Pro.local (8037)] INFO : Installing Rails4 Error instrumentation
+[02/12/14 20:07:00 -0600 Trevors-MacBook-Pro.local (8037)] INFO : Finished instrumentation
+[02/12/14 20:07:00 -0600 Trevors-MacBook-Pro.local (8037)] INFO : Doing deferred dependency-detection before Rack startup
